@@ -23,6 +23,7 @@ Scaffolding/
 *.userosscache
 *.suo
 *.userprefs
+*.cache
 
 # Windows Installer files
 .vs2019/
