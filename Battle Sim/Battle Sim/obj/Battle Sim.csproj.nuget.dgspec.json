@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NgeremT\\Documents\\Code\\Battle Sim\\Battle Sim\\Battle Sim.csproj": {}
+    "C:\\Users\\NgeremT\\Documents\\Code\\Battle-Sim\\Battle Sim\\Battle Sim\\Battle Sim.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NgeremT\\Documents\\Code\\Battle Sim\\Battle Sim\\Battle Sim.csproj": {
+    "C:\\Users\\NgeremT\\Documents\\Code\\Battle-Sim\\Battle Sim\\Battle Sim\\Battle Sim.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NgeremT\\Documents\\Code\\Battle Sim\\Battle Sim\\Battle Sim.csproj",
+        "projectUniqueName": "C:\\Users\\NgeremT\\Documents\\Code\\Battle-Sim\\Battle Sim\\Battle Sim\\Battle Sim.csproj",
         "projectName": "Battle Sim",
-        "projectPath": "C:\\Users\\NgeremT\\Documents\\Code\\Battle Sim\\Battle Sim\\Battle Sim.csproj",
+        "projectPath": "C:\\Users\\NgeremT\\Documents\\Code\\Battle-Sim\\Battle Sim\\Battle Sim\\Battle Sim.csproj",
         "packagesPath": "C:\\Users\\NgeremT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NgeremT\\Documents\\Code\\Battle Sim\\Battle Sim\\obj\\",
+        "outputPath": "C:\\Users\\NgeremT\\Documents\\Code\\Battle-Sim\\Battle Sim\\Battle Sim\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
